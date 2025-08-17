@@ -1,4 +1,4 @@
-# 🌌 Capricorn - AI Chat Application
+# 🌌 Capricorn 
 
 Capricorn is a modern AI-powered chat application that brings smooth real-time interaction with an intelligent assistant.  
 Built using **React + Vite**, **Node.js**, and **Context API**, it provides an elegant UI and a blazing-fast experience.
